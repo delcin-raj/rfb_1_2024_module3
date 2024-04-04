@@ -19,3 +19,10 @@ Handle user input and output.
 
 Come up with cool ideas which gives insight into bitcoin blockchain data.
 This is an open ended assignment.
+
+## Bonus
+
+Using threads periodically print the results of the most recent block in the commandline.
+You can accept input in arguments which will turn on this mode, which is non interactive but periodic
+results.
+Other tasks can be interactive.
