@@ -26,3 +26,5 @@ Using threads periodically print the results of the most recent block in the com
 You can accept input in arguments which will turn on this mode, which is non interactive but periodic
 results.
 Other tasks can be interactive.
+
+[Reference](https://github.com/delcin-raj/rust_realm/tree/main/blockchain_analysis)
